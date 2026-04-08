@@ -3,7 +3,7 @@
    <br>
    Hello, I'm <i>Ian</i>!
    <br>
-   I'm a game developer working at <i>Facepunch Studios</i>. 
+   I'm a Game Developer currently working at <i>Facepunch Studios</i>. 
    <br>
    </samp>
    <br>
