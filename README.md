@@ -5,7 +5,7 @@
    <br>
    I'm a Game Developer currently working at <i>Facepunch Studios</i>. 
    <br>
-   I'm interested in networking.
+   I'm mainly interested in game networking.
    <br>
    </samp>
    <br>
