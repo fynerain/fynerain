@@ -14,6 +14,7 @@
    In my spare time I like to make small indie games.
    </samp>
    <br>
+   <br>
    -----
 <p align="center">
    <samp> 
