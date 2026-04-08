@@ -5,6 +5,13 @@
    <br>
    I'm a Game Developer currently working at <i>Facepunch Studios</i>. 
    <br>
+   I'm interested in networking.
+   <br>
+   </samp>
+   <br>
+   <br>
+   <samp>
+   In my spare time I like to make small indie games.
    </samp>
    <br>
    -----
