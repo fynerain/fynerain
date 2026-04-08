@@ -1,9 +1,9 @@
 <p align="center">
    <samp>
    <br>
-   Hey there, I'm <i>Ian</i>!
+   Hello, I'm <i>Ian</i>!
    <br>
-   I'm a game developer. 
+   I'm a game developer working at <i>Facepunch Studios</i>. 
    <br>
    </samp>
    <br>
