@@ -19,6 +19,8 @@
 <p align="center">
    <samp> 
    ~
+   <a href="https://fynerain.itch.io/">itch.io</a>
+   ·
    <a href="https://x.com/fynerain">twitter</a>
    ·
    <a href="https://www.linkedin.com/in/ianhenderson06/">linkedin</a>
